@@ -1,0 +1,19 @@
+[System.Serializable]
+public enum ItemType
+{
+    None,
+    GreenCube,
+    YellowCube,
+    BlueCube,
+    RedCube,
+    CrateLayer1,
+    Balloon,
+    GreenBalloon,
+    YellowBalloon,
+    RedBalloon,
+    BlueBalloon,
+    Bomb,
+    VerticalRocket,
+    HorizontalRocket,
+    CrateLayer2,
+}
